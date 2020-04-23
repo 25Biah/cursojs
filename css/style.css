@@ -1,0 +1,35 @@
+h1{
+	font-family: fantasy;
+	font-size: 50px;
+	color: #08088A;
+}
+h2{
+	font-family: fantasy;
+color: #08088A;
+font-size: 35px;
+}
+body{
+	height: 500px;
+	background: #CEF6F5;
+	margin-left: 100px;
+	margin-right : 100px;
+}
+p {
+	font-family: fantasy;
+	color : #0174DF;
+	font-size: 25px;
+	text-align: justify;
+}
+a{
+	 color: #08088A;
+	 
+}
+.texto{
+	font-size: 20px;
+	width: 300px;
+	
+}
+select{
+	margin-top: 30px;
+	
+}
